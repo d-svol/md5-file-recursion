@@ -5,6 +5,5 @@ public class Main {
         MD5 first = new MD5(fileDirectory, treadsAmount);
         first.printMd5DirTree();
         System.out.println("Done");
-
     }
 }
